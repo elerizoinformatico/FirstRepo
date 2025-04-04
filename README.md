@@ -1,2 +1,5 @@
 # FirstRepo
-Primer repositorio en GitHub
+
+Primer repositorio en GitHub. Yujuu!
+
+Mi primera contribución local para GitHub.
